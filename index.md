@@ -1,4 +1,4 @@
 ---
-title: Homepage
+title: Welcome to my blog
 ---
-Testing homepage setup for future site
+
